@@ -1,6 +1,9 @@
 ---
 title: 遇见的mac 和 linux Gemfile.lock 的系统依赖问题
-tags: linux ruby macos
+tags: 
+  - linux 
+  - ruby
+  - macos
 ---
 
 今天在搭建这个 blog 的时候, 发现在 mac 下bundle 了的话, 在 linux 拉代码, 再跑`bundle install`就会遇见这个典型的问题:
