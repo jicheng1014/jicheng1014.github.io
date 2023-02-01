@@ -21,6 +21,7 @@ gem 'jekyll-archives'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-admin'
+  gem 'jekyll_picture_tag'
 
 end
 
